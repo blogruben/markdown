@@ -51,6 +51,10 @@ $${eded{red}Texto \space en \space Rojo}$$
 $${\color{lightgreen}Light \space Green}$$	
 
 
+> __Note__ 
+
+> __Warning__
+
 
 $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
