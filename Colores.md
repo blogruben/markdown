@@ -28,6 +28,20 @@ $${{green}Green}$$
 $${eded{red}Texto \space en \space Rojo}$$
 
 
+```math
+\sqrt{3}
+```
+
+
+```math
+\begin{enumerate}
+\color{blue}
+    \item Blue
+    \item More blue
+    \item {\color{red} And red!}
+\end{enumerate}
+```
+
 
 
 $${\color{lightgreen}Light \space Green}$$	
