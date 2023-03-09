@@ -6,13 +6,14 @@
 @@ text in purple (and bold)@@
 ```
 
-<style
-  type="text/css">
-h1 {color:red;}
+The background colour of text can also be \textcolor{red}{easily} set. 
 
-p {color:blue;}
-</style>
-okay
+
+latex
+
+This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
+
+
 
 
 $${{green}Green}$$
