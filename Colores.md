@@ -11,9 +11,9 @@ The background colour of text can also be \textcolor{red}{easily} set.
 
 latex
 
-This expression uses `\$` to display a dollar sign: $\sqrt{\$4} $
+This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
 
-$\textcolor{green}Verde$	
+$\textcolor{green}x$	
 
 $\sqrt{\$4} \space en \space en$
 
