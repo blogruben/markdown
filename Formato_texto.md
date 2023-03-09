@@ -53,6 +53,11 @@ VXiCiPYqFMg&ab
 https://www.youtube.com/watch?v=VXiCiPYqFMg&ab_channel=LucasMoy
 
 
-![IMAGE ALT TEXT HERE](https://youtu.be/3ZwHGekEtAs)
+![Video de bla bla](https://img.youtube.com/vi/3ZwHGekEtAs/sddefault.jpg)
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/3ZwHGekEtAs)](https://www.youtube.com/watch?v=VXiCiPYqFMg&ab_channel=LucasMoy)
+```
+Para hacer un link a un video de youtube
+https://thumbnailsave.com/?v=3ZwHGekEtAs
+```
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3ZwHGekEtAs/sddefault.jpg)](https://www.youtube.com/watch?v=3ZwHGekEtAs&ab_channel=midulive)
