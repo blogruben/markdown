@@ -34,15 +34,19 @@ $${eded{red}Texto \space en \space Rojo}$$
 
 
 ```math
-\begin{enumerate}
+
 \color{blue}
     \item Blue
     \item More blue
     \item {\color{red} And red!}
-\end{enumerate}
+
 ```
 
+```math
 
+\color{blue} Blue
+
+```
 
 $${\color{lightgreen}Light \space Green}$$	
 
