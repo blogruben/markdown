@@ -20,3 +20,14 @@ Reference-style:
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
+
+
+
+```
+Para hacer un link a un video de youtube
+https://thumbnailsave.com
+```
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3ZwHGekEtAs/sddefault.jpg)](https://www.youtube.com/watch?v=3ZwHGekEtAs&ab_channel=midulive)
