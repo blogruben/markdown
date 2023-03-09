@@ -6,10 +6,18 @@
 @@ text in purple (and bold)@@
 ```
 
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+okay
 
 
+$${{green}Green}$$
 
-$${\color{red}Texto \space en \space Rojo}$$
+$${eded{red}Texto \space en \space Rojo}$$
 
 
 $${\color{green}Green}$$	
