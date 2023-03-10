@@ -2,8 +2,17 @@
 
 # Bloques
 
+### Bloque JavaScript
+
+````
 ```javascript
-var s = "JavaScript syntax highlighting";
+var s = "JavaScript";
+alert(s);
+```
+````
+
+```javascript
+var s = "JavaScript";
 alert(s);
 ```
  
@@ -21,11 +30,19 @@ s = "Python syntax highlighting"
 print s
 ```
 
+### Bloque sin indicar
+
+````
 ```
 Sin indicar l
+```
 ````
 
+```
+Sin indicar l
+```
 
+### Bloque  html
 
 ````
 ```html
@@ -48,21 +65,15 @@ Sin indicar l
 ### Bloque  diff
 
 Para mostrar modificaciones de codigo. 
-
 ```diff
 - texto en rojo
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-
-@ text in purple (and bold)@
-@ text in purple 
-@@ text in purple
++ texto en verde
+! texto en raranja
+# texto en gris
+@@ texto en morado y negrita@@
 ```
 
 Por ejemplo, cuando codificamos una linea
-
 ````
 ```diff
 public class Hola
