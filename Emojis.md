@@ -1,11 +1,19 @@
 
 
+# shortcodes de emojis
+
+[Ver listado completo emojis](https://tutorialmarkdown.com/emojis)
 
 reir :laughing:
 advertencia `:warning:` :warning:
 sonrisa :smiley:
 
 
+| Descripción  | Shortcode       | Emoji |
+| :------------ |:---------------:| -----:|
+| reir         | `:laughing:`    | :laughing:  |
+| advertencia   | `:warning:`    | :warning: |
+| sonrisa     | `:smiley:`       |  :smiley: |
 
 # Unicode 
 
