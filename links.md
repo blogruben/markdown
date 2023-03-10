@@ -7,21 +7,17 @@ Link absoluto a pagina web: [Google](https://www.google.com)
 
 Link por referencia: [Google][logo]
 
-[logo]: https://www.google.com "Logo Title Text 2"
+[logo]: https://www.google.com "Descripcion de la ruta"
 
 # Imagen con link
 
-Inline-style: 
+Imagen con link: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-
 
 
 # Pie de pagina
 
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: My reference.
 

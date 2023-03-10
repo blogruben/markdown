@@ -1,3 +1,20 @@
+---
+title: "Page Title"
+subtitle: "Page sub-title"
+author: "Author name"
+description: "This is a test"
+institute: "MU"
+date: "20/02/2020"
+abstract: "YAML"
+keywords: 
+  - key1
+  - key2
+tags:
+  - tag1
+  - tag2
+---
+
+
 # Poner tus estilos
 
 Github tiene deshabilitado el CSS.
@@ -14,6 +31,17 @@ p{color:Black !important;}
 ## Es H2 se muestra en Naranja
 El texto de un parrafo se muestra en negro.
 ```
+
+
+<style>
+H1{color:Blue}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
+# Este H1 se muestra en azul
+## Es H2 se muestra en Naranja
+El texto de un parrafo se muestra en negro.
 
 
 ```
@@ -33,16 +61,74 @@ g { color: Green }
 
 # Texto en color con Latex
 
-Latex es 
-This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
+Latex son para equaciones pero podemos añadir color al texto. 
+Tampoco es procesado por github.
 
-The background colour of text can also be \textcolor{red}{easily} set. 
+```
+$\color{red}     Texto\ en\ color$
+$\color{green}   Texto\ en\ color$
+$\color{blue}    Texto\ en\ color$
+$\color{cyan}    Texto\ en\ color$
+$\color{magenta} Texto\ en\ color$
+$\color{yellow}  Texto\ en\ color$
+$\color{black}   Texto\ en\ color$
+$\color{gray}    Texto\ en\ color$
+$\color{white}   Texto\ en\ color$
+$\color{darkgray}Texto\ en\ color$
+$\color{lightgray}Texto\ en\ color$
+$\color{brown}   Texto\ en\ color$
+$\color{lime}    Texto\ en\ color$
+$\color{olive}   Texto\ en\ color$
+$\color{orange}  Texto\ en\ color$
+$\color{pink}    Texto\ en\ color$
+$\color{purple}  Texto\ en\ color$
+$\color{teal}    Texto\ en\ color$
+$\color{violet}  Texto\ en\ color$
+```    
 
+$\color{red}     Texto\ en\ color$
+
+$\color{green}   Texto\ en\ color$
+
+$\color{blue}    Texto\ en\ color$
+
+$\color{cyan}    Texto\ en\ color$
+
+$\color{magenta} Texto\ en\ color$
+
+$\color{yellow}  Texto\ en\ color$
+
+$\color{black}   Texto\ en\ color$
+
+$\color{gray}    Texto\ en\ color$
+
+$\color{white}   Texto\ en\ color$
+
+$\color{darkgray}Texto\ en\ color$
+
+$\color{lightgray}Texto\ en\ color$
+
+$\color{brown}   Texto\ en\ color$
+
+$\color{lime}    Texto\ en\ color$
+
+$\color{olive}   Texto\ en\ color$
+
+$\color{orange}  Texto\ en\ color$
+
+$\color{pink}    Texto\ en\ color$
+
+$\color{purple}  Texto\ en\ color$
+
+$\color{teal}    Texto\ en\ color$
+
+$\color{violet}  Texto\ en\ color$
 
 
 # Texto en color con Placehold
 
 Placehold es un servicio de imagenes. Nos puede devolver un texto de un color sobre el fondo de otro color.
+Esta tecnica funciona en github. 
 
 This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
 

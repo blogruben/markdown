@@ -1,6 +1,8 @@
+# Scripts o bloque de texto
 
+### Linea de código
 
-# Bloques
+`Esto es una línea de código`
 
 ### Bloque JavaScript
 

@@ -37,3 +37,22 @@ __negrita 2__
 ***cursiva y negrita 1***	
 
 ___cursiva y negrita 2___
+
+
+# Escape markdown
+
+Para escapar de markdown usamos la barra invertida `\`
+```
+\*  asterisco
+\#  almohadilla
+\+  símbolo de suma
+\-  guión
+```
+
+\*  asterisco
+
+\#  almohadilla
+
+\+  símbolo de suma
+
+\-  guión
