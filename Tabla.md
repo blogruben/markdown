@@ -5,3 +5,4 @@
 | Lorem | Lorem ipsum   | 164 |
 | col 2 is      | Lorem        |   37 |
 | zebra stripes | Lorem Lorem Lorem        |    51 |
+
