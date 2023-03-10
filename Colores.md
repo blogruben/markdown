@@ -1,86 +1,43 @@
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+# Poner tus estilos
+
+Github tiene deshabilitado el CSS.
+
+Pero para sobreescribir los estilos se haría así.
 ```
+<style>
+H1{color:Blue}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
+# Este H1 se muestra en azul
+## Es H2 se muestra en Naranja
+El texto de un parrafo se muestra en negro.
+```
+
+
+# Texto en color con Latex
+
+Latex es 
+This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
 
 The background colour of text can also be \textcolor{red}{easily} set. 
 
 
-latex
+
+# Texto en color con Placehold
+
+Placehold es un servicio de imagenes. Nos puede devolver un texto de un color sobre el fondo de otro color.
 
 This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
 
-$\textcolor{green}x$	
 
-$\sqrt{\$4} \space en \space en$
-
-$\textcolor{declared-color}{text}$
-
-
-The background colour of text can also be \textcolor{red}{easily} set. 
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/25x25/1589F0/1589F0.png) `#1589F0`
 
 
-$${{green}Green}$$
 
-$${eded{red}Texto \space en \space Rojo}$$
-
-
-```math
-\sqrt{3}
-```
-
-
-```math
-
-\color{blue}
-    \item Blue
-    \item More blue
-    \item {\color{red} And red!}
-
-```
-
-```math
-
-\color{blue} Blue
-
-```
-
-$${\color{lightgreen}Light \space Green}$$	
-
-
-> __Note__ 
-
-> __Warning__
-
-
-$\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
-
-$\mathbb{\color{teal}{this \ is \ a } \ \color{magenta}{paragraph \ in \ another \ font}}$
-
-$\mathscr{\color{red}{this} \ \ \color{blue}{is \ \ a \ \ paragraph} \ \ \color{yellow}{in \ \ another \ \ font}}$
-
-$\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
-
-$\mathscr{\color{red}{mon}\color{white}{day}}$
-
-$\textcolor{olive}{\TeX} \ \textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
-
-$\textit{hello}$  #italic
-
-$\text{hello}$    #normal
-
-$\Large{hello}$$   #Bigger text size
-
-$$\LaTeX$$
-
-
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
-[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
-[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
-[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
+Para saludar en letra blanca (FFFFFF) fondo negro (000000) ![#1589F0](https://placehold.co/80x20/000000/FFFFFF.png?text=Hello+World)
 
 
