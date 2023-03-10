@@ -1,7 +1,10 @@
 # Links
 
 Link relativo otro markdowm: [Lorem Ipsum](resources/LoremIpsum.md)
+
 Link web a [Google](https://www.google.com)
+
+# Pie de pagina
 
 
 
@@ -31,3 +34,19 @@ https://thumbnailsave.com
 ```
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3ZwHGekEtAs/sddefault.jpg)](https://www.youtube.com/watch?v=3ZwHGekEtAs&ab_channel=midulive)
+
+
+
+# Placeholder Retina
+
+![](filename.mp3)
+
+!video[ title ]( url ){ size=10 }
+!audio[ title ]( url ){ size=10 duration=10 cycle=forever }
+!youtube[ title ]( url ){ size=10 cycle=forever }
+
+
+
+video link to a mp4 local
+
+![](filename.mp4)

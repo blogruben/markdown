@@ -40,4 +40,7 @@ This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
 
 Para saludar en letra blanca (FFFFFF) fondo negro (000000) ![#1589F0](https://placehold.co/80x20/000000/FFFFFF.png?text=Hello+World)
 
+![#1589F0](https://placehold.co/80?text=Hello+World&font=roboto)
+
+![#1589F0](https://placehold.co/1920x1080.mp4)
 
