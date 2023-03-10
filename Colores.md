@@ -28,8 +28,8 @@ p{color:Black !important;}
 </style>
 
 # Este H1 se muestra en azul
-## Es H2 se muestra en Naranja
-El texto de un parrafo se muestra en negro.
+## Este H2 se muestra en Naranja
+Este parrafo se muestra en negro.
 ```
 
 
@@ -40,8 +40,8 @@ p{color:Black !important;}
 </style>
 
 # Este H1 se muestra en azul
-## Es H2 se muestra en Naranja
-El texto de un parrafo se muestra en negro.
+## Este H2 se muestra en Naranja
+Este parrafo se muestra en negro.
 
 
 ```

@@ -56,3 +56,15 @@ Para escapar de markdown usamos la barra invertida `\`
 \+  símbolo de suma
 
 \-  guión
+
+
+# Comentario en markdown
+
+```
+[//]: # (Este es un comentario)
+```
+El comentario esta entre este parrafo y
+
+[//]: # (Este es un comentario)
+
+este otro parrafo. (No debe aparecer el comentario)
