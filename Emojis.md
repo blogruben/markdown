@@ -20,11 +20,11 @@ LARGE BLUE CIRCLE (&#x1F535;)
 LARGE ORANGE DIAMOND (&#x1F536;)
 LARGE BLUE DIAMOND (&#x1F537;)
 
-&#x1F6AB     no entry sign
+&#x1F6AB;     no entry sign
 
-&#x274C		cross mark
+&#x274C;		cross mark
 
-&#x2705	   	white heavy check mark
+&#x2705;	   	white heavy check mark
 
 
 
