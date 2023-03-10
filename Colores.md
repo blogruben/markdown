@@ -28,11 +28,7 @@ g { color: Green }
 - <g>DONE:</g> Trabajo realizado. 
 ```
 
-<style>
-r { color: Red }
-</style>
-
-- <r>TODO:</r> Algo importante por hacer.
+ ![Imagen de las tareas con colores](resources/estilos_tareas.png)
 
 
 # Texto en color con Latex
