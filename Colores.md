@@ -2,7 +2,7 @@
 
 Github tiene deshabilitado el CSS.
 
-Pero para sobreescribir los estilos se haría así.
+Sobreescribir los estilos:
 ```
 <style>
 H1{color:Blue}
@@ -14,6 +14,25 @@ p{color:Black !important;}
 ## Es H2 se muestra en Naranja
 El texto de un parrafo se muestra en negro.
 ```
+
+
+```
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
+- <r>TODO:</r> Algo importante por hacer.
+- <o>TODO:</o> Algo menos importante por hacer.
+- <g>DONE:</g> Trabajo realizado. 
+```
+
+<style>
+r { color: Red }
+</style>
+
+- <r>TODO:</r> Algo importante por hacer.
 
 
 # Texto en color con Latex
