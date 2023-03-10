@@ -4,16 +4,12 @@
 
 [Ver listado completo emojis](https://tutorialmarkdown.com/emojis)
 
-reir :laughing:
-advertencia `:warning:` :warning:
-sonrisa :smiley:
 
-
-| Descripción  | Shortcode       | Emoji |
+| Shortcode  |   Descripción      | Emoji |
 | :------------ |:---------------:| -----:|
-| reir         | `:laughing:`    | :laughing:  |
-| advertencia   | `:warning:`    | :warning: |
-| sonrisa     | `:smiley:`       |  :smiley: |
+| `:laughing:`   |   reir       | :laughing:  |
+| `:warning:`    |   advertencia  | :warning: |
+| `:smiley:`     |    sonrisa    |  :smiley: |
 
 # Unicode 
 
@@ -23,9 +19,12 @@ LARGE RED CIRCLE (&#x1F534;)
 LARGE BLUE CIRCLE (&#x1F535;)
 LARGE ORANGE DIAMOND (&#x1F536;)
 LARGE BLUE DIAMOND (&#x1F537;)
-U+1F6AB     no entry sign
-U+274C		cross mark
-U+2705	   	white heavy check mark
+
+&#x1F6AB     no entry sign
+
+&#x274C		cross mark
+
+&#x2705	   	white heavy check mark
 
 
 
