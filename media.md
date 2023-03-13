@@ -1,8 +1,10 @@
 # Imagenes
 
-![Texto alternativo](/ruta/a/la/imagen.jpg)
-![image-title-here](/img/papelera.png){:class="img-responsive"}
+```
+![Texto alternativo](/ruta/a/la/imagen.jpg){:class="img-responsive"}
 
+![image-title-here](/img/papelera.png)
+```
 
 
 
@@ -41,7 +43,7 @@ https://www.screentogif.com/
 
 
 
-# Escudo
+# Chapas
 
 Escudo o shields es para mostrar metricas de github o otros servicios.
 
