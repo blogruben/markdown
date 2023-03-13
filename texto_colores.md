@@ -1,4 +1,4 @@
-# Poner tus porpios estilos
+# Poner tus propios estilos
 
 Github tiene deshabilitado el CSS.
 
