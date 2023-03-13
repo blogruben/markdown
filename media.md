@@ -3,34 +3,33 @@
 ```
 ![Texto alternativo](/ruta/a/la/imagen.jpg){:class="img-responsive"}
 
-![image-title-here](/img/papelera.png)
+![imagen google](/resources/google.png)
 ```
 
+![imagen google](/resources/google.png)
 
+# Imagen link a youtube
 
+### Buscar imagen de video
 
-
-
-```
-Para hacer un link a un video de youtube
-https://thumbnailsave.com
-```
-
+Para hacer una imagen con link a un video de youtube, 
+necesitamos sabe la ruta de la miniatura de la portada del video
+vamos a ``https://thumbnailsave.com``, ponemos la url del video y nos dice 
+donde esta el thumbnail para que los podamos usar como imagen link.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3ZwHGekEtAs/sddefault.jpg)](https://www.youtube.com/watch?v=3ZwHGekEtAs&ab_channel=midulive)
-
 
 # Placeholder Retina
 
 ![](filename.mp3)
 
+```
 !video[ title ]( url ){ size=10 }
 !audio[ title ]( url ){ size=10 duration=10 cycle=forever }
 !youtube[ title ]( url ){ size=10 cycle=forever }
+```
 
-
-
-video link to a mp4 local
+Video link to a mp4 local
 
 ![](filename.mp4)
 
@@ -44,10 +43,10 @@ Imagen con link:
 Imagen con link: 
 ![Texto alternativo, si no  encuentra la imagen](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Texto al pasar el raton")
 
-# Imagenes gif
+# Gif
 
-Tomar captura de la pantalla con 
-https://www.screentogif.com/
+
+Tomar captura de la pantalla con ``https://www.screentogif.com/``
 
 
 
