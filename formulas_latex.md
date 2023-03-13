@@ -9,12 +9,9 @@ Ecuacion en la misma linea: $x + y$
 Ecuacion mostrar separado del texto: $$x + y$$
 ```
 
-
 Ecuacion en la misma linea: $x + y$
 
 Ecuacion mostrar separado del texto: $$x + y$$
-
-
 
 # Ecuaciones
 ```
