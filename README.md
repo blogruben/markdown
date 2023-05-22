@@ -13,6 +13,6 @@ Mostramos las caracteristicas de markdown.
 - [Bloque de texto](bloque_de_texto.md) (títulos listados)
 - [Tabla](tabla.md) (Mostrar una tabla)
 - [Tabla de contenido](tabla_de_contenido.md) (Mostrar un index)
-
+- [Plantilla del proyecto](plantilla_proyecto.md) (Mostrar la estructura de las secciones)
 
 
